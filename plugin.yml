@@ -1,6 +1,6 @@
-name: Main
-main: Izyan\Main
+name: IzyanzZ
+main: Izyan\IzyanzZ
 api: [3.0.0, 3.21.0, 3.21.1, 3.22.0, 4.0.0]
-author: Izyanzz
+author: Izyan
 description: "Desc"
 version: 1.0.0
