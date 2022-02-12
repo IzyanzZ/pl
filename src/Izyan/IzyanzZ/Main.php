@@ -19,4 +19,3 @@ class Main extends PluginBase implements Listener{
         $this->getLogger()->info("[Izyan] Plugin Disable");
     }
 }
-© 
