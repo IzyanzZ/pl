@@ -1,5 +1,5 @@
 name: IzyanzZ
-main: Izyan\IzyanzZ
+main: Izyan\IzyanzZ\Main
 api: [3.0.0, 3.21.0, 3.21.1, 3.22.0, 4.0.0]
 author: Izyan
 description: "Desc"

@@ -1,7 +1,6 @@
 <?php
 
-namespace Izyanz;
-
+namespace Izyan\IzyanzZ;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 
